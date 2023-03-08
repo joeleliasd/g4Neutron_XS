@@ -1,0 +1,6 @@
+<lcgdict>
+	<!-- G4HadStudiess objects -->
+	<class name="ProdTuple_t" />
+	<class name="TrackInfo_t" />
+</lcgdict>
+
